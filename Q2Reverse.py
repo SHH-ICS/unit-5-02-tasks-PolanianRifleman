@@ -1,1 +1,4 @@
-# Create a program that will accept a word and output the word one letter at a time in reverse.
+x = input("Input a word: ")
+for letter in reversed(x):
+    print(letter)
+    
