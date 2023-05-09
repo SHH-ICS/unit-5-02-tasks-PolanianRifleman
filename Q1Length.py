@@ -5,3 +5,4 @@ while True:
     else:
         x = len(x)
         print(x)
+        
